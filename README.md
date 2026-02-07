@@ -1,7 +1,5 @@
-
-
 <h1 align="center">Elmira ShokriyanFard</h1>
-<h3 align="center">Front-End Developer | React & Next.js Specialist</h3>
+<h3 align="center">Front-End Developer • React & Next.js Specialist</h3>
 
 <p align="center">
   <a href="https://elmirashokriyan.ir">Portfolio</a> •
@@ -16,16 +14,16 @@
 ---
 
 ## 🧑‍💻 About Me
-Frontend Developer focused on building scalable, high-performance, and visually refined user interfaces.  
-I specialize in React, Next.js, and TypeScript, with a passion for clean architecture, accessibility, and modern UI engineering.
+I’m a Front-End Developer passionate about building clean, modern, and high‑performance user interfaces.  
+My main focus is on React, Next.js, and TypeScript, with strong attention to UI/UX, accessibility, and scalable architecture.
 
-I enjoy crafting smooth user experiences and turning complex ideas into elegant, maintainable interfaces.
+I love turning ideas into elegant, smooth, and maintainable digital experiences.
 
 ---
 
 ## 🛠 Tech Stack
 
-### Languages & Core
+### Languages
 <p>
   <img src="https://skillicons.dev/icons?i=ts,js,html,css" />
 </p>
@@ -35,12 +33,12 @@ I enjoy crafting smooth user experiences and turning complex ideas into elegant,
   <img src="https://skillicons.dev/icons?i=react,nextjs" />
 </p>
 
-### UI & Styling
+### UI / Styling
 <p>
   <img src="https://skillicons.dev/icons?i=tailwind,figma" />
 </p>
 
-### Tools & Workflow
+### Tools
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vite" />
 </p>
@@ -59,13 +57,8 @@ I enjoy crafting smooth user experiences and turning complex ideas into elegant,
 ---
 
 ## 📁 Portfolio Website
-<p>
-  <img align="right" width="110" src="https://skillicons.dev/icons?i=nextjs" />
-</p>
-
-A modern, responsive personal portfolio built with Next.js, featuring:
+A modern personal portfolio built with Next.js, featuring:
 - PWA support  
-- API integration  
 - Smooth animations  
 - Swiper sliders  
 - Zustand state management  
@@ -74,16 +67,10 @@ A modern, responsive personal portfolio built with Next.js, featuring:
 🔗 GitHub: https://github.com/elmira1385/portfolio  
 🔗 Live Demo: https://elmirashokriyan.ir  
 
-<br clear="both"/>
-
 ---
 
 ## 📁 Resume Builder
-<p>
-  <img align="right" width="110" src="https://skillicons.dev/icons?i=react,ts" />
-</p>
-
-A web app for creating and managing resumes, built with:
+A resume creation web app built with:
 - React  
 - TypeScript  
 - Tailwind CSS  
@@ -92,27 +79,18 @@ A web app for creating and managing resumes, built with:
 
 🔗 GitHub: https://github.com/elmira1385/Resume_Builder  
 
-<br clear="both"/>
-
 ---
 
 ## 📁 Car Rental App
-<p>
-  <img align="right" width="110" src="https://skillicons.dev/icons?i=react,tailwind,ts" />
-</p>
-
-A responsive car-listing app with:
+A responsive car listing app with:
 - API-based car loading  
 - Smooth animations  
 - React + TypeScript  
 - Tailwind CSS  
 - Zustand  
 - Framer Motion  
-- Axios  
 
 🔗 GitHub: https://github.com/elmira1385/Car_Rentel  
-
-<br clear="both"/>
 
 ---
 
