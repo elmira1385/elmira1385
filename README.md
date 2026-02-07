@@ -1,13 +1,13 @@
-<h1 align="center">Elmira ShokriyanFard</h1>
-<h3 align="center">Front-End Developer • React & Next.js Specialist</h3>
+<h1 align="left">Elmira ShokriyanFard</h1>
+<h3 align="left">Front-End Developer • React & Next.js Specialist</h3>
 
-<p align="center">
+<p align="left">
   <a href="https://elmirashokriyan.ir">Portfolio</a> •
   <a href="https://github.com/elmira1385">GitHub</a> •
   <a href="mailto:elmirashokriyan64@gmail.com">Email</a>
 </p>
 
-<p align="center">
+<p align="left">
   <img src="https://readme-typing-svg.herokuapp.com?color=6C63FF&size=22&center=true&vCenter=true&width=500&lines=Front-End+Developer;React+%7C+Next.js+%7C+TypeScript;Clean+Code+.+Modern+UI+.+High+Performance" />
 </p>
 
