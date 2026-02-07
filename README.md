@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://github.com/elmira1385.png" width="140" style="border-radius: 50%;" />
-</p>
+
 
 <h1 align="center">Elmira ShokriyanFard</h1>
 <h3 align="center">Front-End Developer | React & Next.js Specialist</h3>
