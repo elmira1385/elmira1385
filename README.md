@@ -32,6 +32,7 @@ I love turning ideas into elegant, smooth, and maintainable digital experiences.
 <img src="https://skillicons.dev/icons?i=git,github,vite" />
 
 ### Additional Skills
+- Next
 - Zustand  
 - React Query  
 - React Hook Form  
