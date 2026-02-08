@@ -64,7 +64,7 @@ A resume creation web app built with:
 - React Query  
 
 GitHub: https://github.com/elmira1385/Resume_Builder  
-
+Live Demo: https://resume-biulder-elmira.netlify.app/
 ---
 
 ## 📁 Car Rental App
@@ -77,7 +77,7 @@ A responsive car listing app with:
 - Framer Motion  
 
 GitHub: https://github.com/elmira1385/Car_Rentel  
-
+Live Demo: https://car-rental-elmira.netlify.app/ 
 ---
 
 ## 📫 Contact
